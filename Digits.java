@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Digits {
      // Initialize the distribute function to distribute the digits
-     public static int[] distribute(int number,int[] digits) {
+     public static int[] distribute(int number,int[] digits,int maxDigit) {
           
           int i = 0;
           
